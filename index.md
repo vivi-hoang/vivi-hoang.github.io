@@ -4,10 +4,12 @@
 * **Personal**: Books, podcasts and sewing
 * **Technical**: Gaining a well-rounded understanding of practical computer science skills
 * **Research**: How computer science can play a role in journalism and/or librarianship
+
 ### Technical Background
 I took two programming courses at Grand Rapids Community College: one that used Ruby to teach basic coding concepts and another that focused on beginner Java.
+
 ### Favorite meme
-![Ron Swanson: "I can't go because I don't want to"](http://img.picturequotes.com/2/55/54230/i-cant-go-because-i-dont-want-to-quote-1.jpg)
+<img src="http://img.picturequotes.com/2/55/54230/i-cant-go-because-i-dont-want-to-quote-1.jpg" width="300">
 
 ## CIS641 Project
 **Project GitHub page**:
