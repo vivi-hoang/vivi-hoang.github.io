@@ -19,3 +19,14 @@ For our term project, my partner [Pratik Shrestra](https://github.com/pratik-sth
 
 Our goal is for this calculator to be able to perform basic arithmetic operations (addition, subtraction, multiplication, division), a trig function (sine), and a unit conversion (feet to meters and meters to feet) with the option of adding additional trig functional and units to convert if time allows.
 
+## Previous Professional Experience
+* Webmaster, [Kent District Library](https://kdl.org/) (Comstock Park, Michigan)
+* Library Systems Administrator, [Moore Memorial Public Library](http://www.texascity-library.org/) (Texas City, Texas)
+* Features Writer, [The Tennessean](https://www.tennessean.com/) (Nashville, Tenn.)
+* Assistant Language Teacher, [Japan Exchange and Teaching Program](http://jetprogramme.org/en/) (Tokushima, Japan)
+* Reporter, [Abilene Reporter-News](https://www.reporternews.com/) (Abilene, Texas)
+
+## Education
+* Master of Science in Information Studies, [The University of Texas at Austin](https://www.utexas.edu/)
+* Bachelor of Journalism, [The University of Texas at Austin](https://www.utexas.edu/)
+
