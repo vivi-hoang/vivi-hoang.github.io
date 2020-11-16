@@ -15,9 +15,9 @@ I took two programming courses at Grand Rapids Community College: one that used 
 **Project GitHub page**:
 [GVSU CIS641 Mischief Management](https://github.com/pratik-stha/GVSU-CIS641-MISCHIEF-MANAGEMENT)
 
-For our term project, my partner [Pratik Shrestra](https://github.com/pratik-stha) and I are configuring a calculator app as a way of learning about the software design lifecycle as well as familiarizing ourselves with the Python programming language.
+For our term project, my teammate [Pratik Shrestra](https://github.com/pratik-stha) and I are configuring a calculator app as a way of learning about the software design lifecycle as well as familiarizing ourselves with the Python programming language.
 
-Our goal is for this calculator to be able to perform basic arithmetic operations (addition, subtraction, multiplication, division), a trig function (sine), and a unit conversion (feet to meters and meters to feet) with the option of adding additional trig functional and units to convert if time allows.
+Our goal is for this calculator to be able to perform basic arithmetic operations (addition, subtraction, multiplication, division), a trig function (sine), and a unit conversion (feet to meters and meters to feet) with the option of adding additional trig functionality and units to convert if time allows.
 
 ## Previous Professional Experience
 * Webmaster, [Kent District Library](https://kdl.org/) (Comstock Park, Michigan)
