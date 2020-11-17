@@ -19,6 +19,8 @@ For our term project, my teammate [Pratik Shrestra](https://github.com/pratik-st
 
 Our goal is for this calculator to be able to perform basic arithmetic operations (addition, subtraction, multiplication, division), a trig function (sine), and a unit conversion (feet to meters and meters to feet) with the option of adding additional trig functionality and units to convert if time allows.
 
+In doing so, we're gaining experience in the behind-the-scenes process that's done to build a software application, such as the initial proposal, gathering requirements, modeling the system, design and implementation. This includes translating needs into several types and layers of diagrams for gathering feedback and documentation purposes. 
+
 ## Previous Professional Experience
 * Webmaster, [Kent District Library](https://kdl.org/) (Comstock Park, Michigan)
 * Library Systems Administrator, [Moore Memorial Public Library](http://www.texascity-library.org/) (Texas City, Texas)
