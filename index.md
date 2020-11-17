@@ -13,7 +13,7 @@ I took two programming courses at Grand Rapids Community College: one that used 
 
 ## CIS641 Project
 **Project GitHub page**:
-[GVSU CIS641 Mischief Management](https://github.com/pratik-stha/GVSU-CIS641-MISCHIEF-MANAGEMENT)
+[GVSU CIS641 Calculator Project](https://github.com/pratik-stha/GVSU-CIS641-MISCHIEF-MANAGEMENT)
 
 For our term project, my teammate [Pratik Shrestra](https://github.com/pratik-stha) and I are configuring a calculator app as a way of learning about the software design lifecycle as well as familiarizing ourselves with the Python programming language.
 
