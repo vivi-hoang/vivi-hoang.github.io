@@ -1,5 +1,7 @@
 # Vivi Hoang
 
+[About me](about.md)
+
 ### Interests
 * **Personal**: Books, podcasts and sewing
 * **Technical**: Gaining a well-rounded understanding of practical computer science skills
