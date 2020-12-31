@@ -11,7 +11,7 @@ I took my first coding class back in my undergraduate years as a way of fulfilli
 
 I've changed my mind.
 
-Over the years, I have worked as a number of things -- journalist, English teacher, librarian, webmaster -- and I love working with communities, stories and information. But I also wanted to learn how to do more with that knowledge and solve problems using digital tools. So I'm doing it. 
+Over the years, I have worked as a number of things -- journalist, English-language teacher, librarian, webmaster -- and I love working with communities, stories and information. But I also wanted to learn how to do more with that knowledge and solve problems using digital tools. So I'm doing it.
 
 In Fall 2020 I enrolled full-time in Grand Valley State University's [Master's of Applied Computer Science Program](https://www.gvsu.edu/grad/appliedcompsci/). GVSU is [based in Allendale](https://goo.gl/maps/s411uG8oaZ1YASU7A), just outside of Grand Rapids in Western Michigan. 
 
