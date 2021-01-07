@@ -2,8 +2,8 @@
 layout: post
 title:  "You can't just buy these glasses anywhere"
 date:   2021-01-07 13:26:00 -0500
-category: coding journey
-category: courses
+# category: coding journey
+# tags: courses
 ---
 <img src="https://media.giphy.com/media/sWQLSdcRTcJKU/source.gif" width="400" alt="Glasses are cool."><br />
 *In which I appreciate the lens of age and experience*

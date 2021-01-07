@@ -2,7 +2,7 @@
 layout: post
 title:  "What am I doing here"
 date:   2020-12-30 14:22:12 -0500
-category: coding journey
+# category: coding journey
 ---
 <img src="https://media.giphy.com/media/jVc9WmM1N8QwlK3sVy/source.gif" width="300" alt="GIF of Reese Witherspoon from Wild appreciating nature."><br />
 *Feeling lost but grateful for the amazing view*
