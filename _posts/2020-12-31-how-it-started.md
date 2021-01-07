@@ -2,7 +2,8 @@
 layout: post
 title:  "How it started"
 date:   2020-12-31 13:43:12 -0500
-category: coding journey, courses
+category: coding journey
+category: courses
 ---
 <img src="https://media.giphy.com/media/LOFAdzN8n5mpu7W6PZ/source.gif" width="400" alt="It's not about how you started, it's about how you finish"><br />
 *Nevertheless, I share how it started*
