@@ -2,7 +2,7 @@
 layout: post
 title:  "How it started"
 date:   2020-12-31 13:43:12 -0500
-category: coding journey
+category: coding journey, courses
 ---
 <img src="https://media.giphy.com/media/LOFAdzN8n5mpu7W6PZ/source.gif" width="400" alt="It's not about how you started, it's about how you finish"><br />
 *Nevertheless, I share how it started*
@@ -11,7 +11,7 @@ I'd been saying for years that I wanted to learn to code but surprise, surprise:
 
 ## My first coding class
 
-Although I know there are plenty of different avenues to study this subject on your own, I enjoy learning in-person with others, so I enrolled in a [beginner programming class](hhttps://catalog.grcc.edu/preview_course_nopop.php?catoid=45&coid=69129) at Grand Rapids Community College. It seemed like a low-key, small-stakes way to get my feet wet.
+Although I know there are plenty of different avenues to study this subject on your own, I enjoy learning in-person with others, so I enrolled in a [beginner programming class](https://catalog.grcc.edu/preview_course_nopop.php?catoid=45&coid=69129) at Grand Rapids Community College. It seemed like a low-key, small-stakes way to get my feet wet.
 
 We got introduced to basic programming principles while using the Ruby programming language. The instructor emphasized how we shouldn't get too bogged down in the programming language; it was the concepts he wanted to understand. Now that I've been exposed to a couple of other programming languages -- Java, Python and JavaScript -- I see what he meant: how the logic is universal whereas each language has its own syntax.
 
